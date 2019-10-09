@@ -6,9 +6,9 @@
 // dsp = digital signal processing
  
 import("stdfaust.lib"); // importare la libreria standard di faust
-process = +; // in ogni rpogramma c'è un solo process = qualcosa ;
+process = +; // in ogni programma c'è un solo process = qualcosa ;
 
 //faust segue il contenuto di process
-// ogni riga deve finire con un * ; * 
+// ogni riga deve finire con un  ;  
 
-// gli operatori matematici sono * + - * / *
+// gli operatori matematici sono  + - * / 
